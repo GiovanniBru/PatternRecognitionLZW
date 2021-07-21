@@ -39,3 +39,6 @@
 <p>2 - WIKIPEDIA. Reconhecimento de padrões. Disponível em: https://pt.wikipedia.org/wiki/Reconhecimento_de_padr%C3%B5es/. Acesso em: 27 Jun. 2021.</p>
 <p>3 - DROPBOX. orl_faces. Disponível em: https://www.dropbox.com/s/mnhfhb1i51loknk/orl_faces.zip?dl=0. Acesso em: 20 Jun. 2021.</p>
 <p>4 - GETHOWSTUFF. Python PIL getpixel() method to get pixel value. Disponível em: https://gethowstuff.com/python-pil-getpixel-method-pixel-value/ .Acesso em: 20 Jun. 2021.</p>
+
+
+<p><b>Nota: 9,5</b></p>
