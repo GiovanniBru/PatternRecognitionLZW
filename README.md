@@ -9,10 +9,10 @@
 
 <h2> Sumário </h2> 
 <ol>
-	<li><a href="">Desenvolvimento</a></li>
-	<li><a href="">Resultados Obtidos</a></li>
-	<li><a href="">Conclusão</a></li>
-	<li><a href="">Referências</a></li>
+	<li><a href="https://github.com/GiovanniBru/PatternRecognitionLZW#desenvolvimento">Desenvolvimento</a></li>
+	<li><a href="https://github.com/GiovanniBru/PatternRecognitionLZW#resultados-obtidos">Resultados Obtidos</a></li>
+	<li><a href="https://github.com/GiovanniBru/PatternRecognitionLZW#conclus%C3%A3o">Conclusão</a></li>
+	<li><a href="https://github.com/GiovanniBru/PatternRecognitionLZW#refer%C3%AAncias">Referências</a></li>
 </ol>
 
 <h2>Desenvolvimento</h2>
@@ -26,9 +26,9 @@
 <h2>Resultados Obtidos</h2>
 <p>Os testes foram feitos com diferentes tamanhos de contexto K bits, de 9 a 16, esse parâmetro define o tamanho máximo do dicionário com LZW, onde um contexto K =9 tem dicionário de tamanho 2^9= 512.</p>
 <p>O tempo de processamento aumentou conforme o crescimento do tamanho de K. A taxa de acertos da classificação também seguiu o mesmo formato, com exceção do K =10, onde teve um decaimento em relação ao K anterior.</p>
-<p align="center"><img src = ""></p>
+<p align="center"><img src = "https://github.com/GiovanniBru/PatternRecognitionLZW/blob/main/images/taxaacerto.PNG"></p>
 <p align="center">Figura 1 - Gráfico de Taxa de Acerto</p>
-<p align="center"><img src = ""></p>
+<p align="center"><img src = "https://github.com/GiovanniBru/PatternRecognitionLZW/blob/main/images/tempoprocessamento.PNG"></p>
 <p align="center">Figura 2 - Gráfico de Tempo de Processamento</p>
 
 <h2>Conclusão</h2>
